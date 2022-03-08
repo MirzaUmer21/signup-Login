@@ -1,0 +1,27 @@
+.navlogo{
+    color: red !important;
+    font-size: 25px;
+    font-weight: 700;
+    font-style: oblique;
+}
+.signup-site-heading{
+    color: red !important;
+    font-weight: 700;
+    font-style: oblique;
+}
+.signupcover{
+    background-image: url("../images/hh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-origin: content-box;
+
+}
+.bordersolid{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+}
+.content{
+    display: contents;
+}
